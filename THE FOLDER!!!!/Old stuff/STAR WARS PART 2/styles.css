@@ -1,0 +1,64 @@
+body {
+    font-family: ;
+    color: ;
+    background-image: ;
+    width: ;
+    margin: ;
+}
+
+h1 {
+    font-size: ;
+    text-align: ;
+}
+
+h2 {
+    text-align: ;
+}
+
+ul {
+    list-style-type: ;
+    text-align: ;
+}
+
+
+nav li {
+    background-color: ;
+    margin: ;
+    padding: ;
+    border-radius: ;    
+}
+
+.photo img {
+    width: ;
+    border-radius: ;  
+}
+
+.thumbs img {
+    height: 
+    border-radius: ;    
+}
+
+.droid {
+    background-color: ;
+    padding: ;
+    margin: ;
+    border: ;
+    border-radius: ; 
+}
+
+.droid .photo {
+    float: ;
+    margin: ;
+}
+
+.droid:nth-child(even) .photo {
+   
+}
+
+.desc {
+    margin: 1
+}
+
+.droid .thumbs {
+   
+}

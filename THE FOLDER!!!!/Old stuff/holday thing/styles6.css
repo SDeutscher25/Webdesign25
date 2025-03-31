@@ -1,0 +1,22 @@
+body {
+   background-color: #ff7814;
+}
+a{ background-color: #c85f03;
+border: none;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
+}
+a:link{  
+background-color:#c85f03;
+color:#ff9400;
+padding: 15px 20px;
+text-align-last: center;
+text-decoration: none;
+display:inline-block;
+margin-right:16px  
+   }
